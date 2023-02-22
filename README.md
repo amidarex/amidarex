@@ -2,13 +2,9 @@
 
 # 💫 About Me
 
-## Dylano Zuijderwijk - Student
-
 - 🔭 I’m currently working on: `My education`.
 - 👯 I’m looking to collaborate: `On projects in the future`.
 - 🌱 I’m currently learning: `Web Development`.
-
-[![wakatime][wakatime]][wakatime-badge]
 
 ## 💬 Always Learning! &nbsp;
 
