@@ -1,49 +1,21 @@
-<!-- @format -->
+# 💫 About Me:
+🔭 **Developing:** Personal Website, with different technologies.<br>👯 **Open to collaborate:** Web dev open-source initiatives.<br>🤝 **Seeking help with:** Responsive design, mobile optimization.<br>🌱 **Learning:** Backend with Express.<br><br>⚡ **Fun Fact:** The electric chair was invented by a dentist.<br>
 
-# 💫 About Me
 
-- 🔭 I’m currently working on: `My education`.
-- 👯 I’m looking to collaborate: `On projects in the future`.
-- 🌱 I’m currently learning: `Web Development`.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ptPQA4RWfe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dylanozw) 
 
-## 💬 Always Learning! &nbsp;
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=koyshira&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=koyshira&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koyshira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-```javascript
-try {
-  while(!success) {
-    try again;
-  } catch(mistakes) {
-      learn from them and try again;
-  } finally {
-      success;
-    }
-```
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## 🌐 Socials
+---
+[![](https://visitcount.itsvg.in/api?id=koyshira&icon=2&color=12)](https://visitcount.itsvg.in)
 
-[![LinkedIn][linkedin-badge]][linkedin]
-[![Reddit][reddit-badge]][reddit]
-[![Stack Overflow][stackoverflow-badge]][stackoverflow]
-[![Twitter][twitter-badge]][twitter]
-
-## 💻 Tech Stack
-
-![HTML5][html5-badge]
-![CSS3][css3-badge]
-![JavaScript][javascript-badge]
-
-<!-- Link Definitions -->
-
-[wakatime]: https://wakatime.com/badge/user/6445c17b-e118-40ce-ac7e-e20d9d2d1d24.svg
-[wakatime-badge]: https://wakatime.com/@6445c17b-e118-40ce-ac7e-e20d9d2d1d24
-[linkedin]: https://linkedin.com/in/dylano-z-268847243
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
-[reddit]: https://reddit.com/user/amidarex
-[reddit-badge]: https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white
-[stackoverflow]: https://stackoverflow.com/users/20117971
-[stackoverflow-badge]: https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white
-[twitter]: https://twitter.com/amidarex
-[twitter-badge]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white
-[html5-badge]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[css3-badge]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[javascript-badge]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
